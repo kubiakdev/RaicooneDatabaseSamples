@@ -1,0 +1,74 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:4999987578625654616",
+      "lastPropertyId": "9:317516354346303299",
+      "name": "FileBoxEntity",
+      "properties": [
+        {
+          "id": "1:6830566724625056296",
+          "name": "id"
+        },
+        {
+          "id": "2:2885164848889667244",
+          "name": "name"
+        },
+        {
+          "id": "3:2569828972378137700",
+          "name": "type"
+        },
+        {
+          "id": "4:8421065493917545137",
+          "name": "extension"
+        },
+        {
+          "id": "5:9151095554467229422",
+          "name": "parent"
+        },
+        {
+          "id": "6:6649646332975085626",
+          "name": "disc"
+        },
+        {
+          "id": "7:9098071216312412241",
+          "name": "url"
+        },
+        {
+          "id": "8:725096950778054198",
+          "name": "createdDate"
+        },
+        {
+          "id": "9:317516354346303299",
+          "name": "modifiedDate"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "2:4999987578625654616",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [
+    885554948313278316
+  ],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3854959440733967682,
+    8570716056226982033,
+    1124005011210133277,
+    7762211730542950987,
+    4955742629614073188,
+    8255176856010138823,
+    9013794965176489645,
+    8798057974144129750,
+    9211448829580118180
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

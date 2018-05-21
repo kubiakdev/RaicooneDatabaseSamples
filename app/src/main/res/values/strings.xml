@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RaicooneDatabaseSamples</string>
+    <string name="tv_cachedFiles">Cached Files</string>
+    <string name="tv_objectBox">ObjectBox</string>
+    <string name="tv_SQLite">SQLite</string>
+    <string name="tv_template">
+        Id: %1$d\n
+        Name: %2$s\n
+        Type: %3$s\n
+     Extension: %4$s\n
+     Parent: %5$s\n
+     Disc: %6$s\n
+     Url: %7$s\n
+     Created Date: %8$s\n
+     Modified Date: %9$s\n</string>
+    <string name="b_add">Add random entity</string>
+</resources>
